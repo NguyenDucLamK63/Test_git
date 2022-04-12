@@ -1,1 +1,3 @@
-lam se gioi
+lam se gioi\
+lam di choi
+lam se di lam
